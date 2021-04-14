@@ -22,3 +22,4 @@ resturante seu nome, cidade, endereço e imagem.<br>
 ter um menu flutuante (via toolbar) com uma opção para voltar para 
 tela inicial do APP." <br>
 
+[Exemplos mostrados em imagem](https://github.com/MatheusHeck2001/franchisesApp/edit/main/Exemplos/README.md)<br>
